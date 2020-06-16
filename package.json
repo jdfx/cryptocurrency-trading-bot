@@ -1,0 +1,28 @@
+{
+  "name": "cryptocurrency-trading-bot",
+  "version": "1.0.0",
+  "description": "Uses ccxt exchange libraries to trade crypto currency",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdfx/cryptocurrency-trading-bot.git"
+  },
+  "keywords": [
+    "crypto",
+    "trading",
+    "bot",
+    "bitcoin"
+  ],
+  "author": "Joel Derbyshire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdfx/cryptocurrency-trading-bot/issues"
+  },
+  "homepage": "https://github.com/jdfx/cryptocurrency-trading-bot#readme",
+  "dependencies": {
+    "ccxt": "^1.30.10"
+  }
+}
