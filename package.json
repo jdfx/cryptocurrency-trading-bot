@@ -27,7 +27,7 @@
   "dependencies": {
     "ccxt": "^1.30.10",
     "dotenv": "^8.2.0",
-    "lodash": "4.17.15"
+    "lodash": "4.17.19"
   },
   "devDependencies": {
     "@babel/cli": "7.5.0",
